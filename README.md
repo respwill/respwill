@@ -1,6 +1,6 @@
 HI,  
 I'm respwill.  
-I have been working for shipping company for about 2 years since 2020.  
+I have been working for shipping company since 2020.  
 I'm intersted in deep learning and recently studying reinforcement learning.  
 
 What I have done:  
